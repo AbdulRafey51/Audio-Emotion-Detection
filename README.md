@@ -1,4 +1,4 @@
-🎧 Audio & Text Emotion Detection API
+# 🎧 Audio & Text Emotion Detection 
 This project is a robust emotion detection system that combines audio signal processing with natural language processing (NLP) to classify emotional states. It integrates classical ML techniques with advanced transformer models from Hugging Face, deployed through a FastAPI web server.
 
 🔍 What This Project Does
